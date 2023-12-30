@@ -53,7 +53,7 @@ Import `starknet` and use the [API](https://www.starknetjs.com/docs/API/).
 
 [Click Here](https://www.starknetjs.com/docs/API/)
 
-Please refer to the following code examples [here](https://github.com/PhilippeR26/starknet.js-workshop-typescript)! :video_game:
+Please refer to the following code  examples [here](https://github.com/PhilippeR26/starknet.js-workshop-typescript)! :video_game:
 
 Guides can be found [here](https://www.starknetjs.com/docs/guides/intro) :book:
 
